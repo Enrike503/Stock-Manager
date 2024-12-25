@@ -1,0 +1,17 @@
+ {
+        "HTML Link Snippet": {
+            "prefix": "Li",
+            "body": [
+            "<li><a href='${1:LINK}'>${2:LINK_NAME}</a></li>"
+        ],
+        "description": "Snippet para crear un enlace dentro de una lista"
+        },
+    "Estructura header": {
+        "prefix": "full",
+        "body": [
+            "header.header>nav.header-nav>ul.header-ul>li.list-item*4>a.link{LINK $}"
+        ],
+        "description": "Estructura header completa chaval"
+    }
+}
+ 
